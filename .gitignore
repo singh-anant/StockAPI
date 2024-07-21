@@ -1,0 +1,45 @@
+# .NET Core generated files
+api/bin/
+api/obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+api/logs/
+
+# Visual Studio Code
+api/.vscode/
+api/.vscode/*
+
+# Rider
+api/.idea/
+
+# ASP.NET Scaffolding
+api/ScaffoldingReadMe.txt
+
+# MacOS files
+api/.DS_Store
+
+# Windows files
+api/Thumbs.db
+api/Desktop.ini
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+api/.env
+
+# Publish
+api/wwwroot/
+
+# Dependencies
+api/packages/
